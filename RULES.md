@@ -32,6 +32,9 @@
 
 13 . **Use UTC**: <br/>
 	To keep things consistent and prevent confusion, please use UTC when talking about an event or other thing that involves a time.
+	
+14 . **Advertisement**: <br/>
+	You may *not* advertise anything. You can share your work with others, but you may not advertise.
 
 Do not try to find holes that "allow" you to do things that you obviously sholdn't. Using such a hole will result in you getting banned and me fixing it.<br/>
 If you *do* find a hole, let me know.
