@@ -32,4 +32,5 @@
   Gooei wrote this rule originally, so I'm just going to quote him:
   > nsfw = ban(Permanent)
 
-Do not try to find holes that "allow" you to do things that you obviously sholdn't. Finding such a hole will result in you getting banned and me fixing it.
+Do not try to find holes that "allow" you to do things that you obviously sholdn't. Using such a hole will result in you getting banned and me fixing it.<br/>
+If you *do* find a hole, let me know.
