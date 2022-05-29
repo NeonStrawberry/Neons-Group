@@ -16,9 +16,9 @@
 8. **Hate**: <br/>
   Permanent ban.
 9. **Use correct pronouns**: <br/>
-  I am planning on implementing a system like pronoun roles, but that may take a while.
+  I am planning on implementing a system like pronoun roles, but that may take a while. <br/>
+  Added after commit `387a649`: I added them
   
-  Added after commit `387a649`: I added them.
 10. **Don't ask about rules 7 and 3**: <br/>
   Just. *don't*. If you do, you will be banned permanently.
 11. **The Mandelbrot set looks cool**
