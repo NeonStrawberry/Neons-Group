@@ -32,7 +32,7 @@
   Gooei wrote this rule originally, so I'm just going to quote him:
   > nsfw = ban(Permanent)
 
-13. **Use UTC**: <br/>
+13 . **Use UTC**: <br/>
 	To keep things consistent and prevent confusion, please use UTC when talking about an event or other thing that involves a time.
 
 Do not try to find holes that "allow" you to do things that you obviously sholdn't. Using such a hole will result in you getting banned and me fixing it.<br/>
