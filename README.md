@@ -2,4 +2,4 @@
 Files relating to the Neon's Group Discord server
 
 # Files
-[Rules]()
+[Rules](RULES.md)
