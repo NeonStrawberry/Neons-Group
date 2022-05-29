@@ -10,7 +10,7 @@
 - Being acknowledged by NeonStrawberry#6323 as a member
 
 	will be banned for 5 years.
-5. **Illegal activity is a permanent ban**: <br/>
+5. **Illegal activity is a permanent ban** <br/>
 6. **Discord's community guidelines**: <br/>
   Violation of Discord's community guidelines will result in a permanent ban.
 8. **Hate**: <br/>
