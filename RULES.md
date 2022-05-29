@@ -9,7 +9,7 @@
 4 . **Member impersonation**: <br/>
 	Anyone to state that they are a member without:
 - Having the `@Member` role
-- Being acknowledged by NeonStrawberry#6323 as a member
+- Being a known member to NeonStrawberry#6323.
 
 	will be banned for 5 years.
 	
