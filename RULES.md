@@ -1,5 +1,7 @@
 # ***Rules - Neon's group***
 
+These are just general guidelines. Moderators are allowed to kick and ban people for other reasons.
+
 1 . **Spamming**: <br/>
 	Anyone using any kind of automation to send messages without specific permission from a `@Moderator` will be banned for 2 months.
 	
