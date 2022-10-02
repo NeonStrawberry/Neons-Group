@@ -12,7 +12,7 @@ These are just general guidelines. Moderators are allowed to kick and ban people
 	Anyone to state that they are a member without:
 - Having the `@Member` role
 
-	will be banned for 5 years.
+will be banned for 5 years.
 	
 5 . **Illegal activity is a permanent ban** <br/>
 6 . **Discord's community guidelines**: <br/>
