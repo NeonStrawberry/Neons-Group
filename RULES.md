@@ -10,7 +10,8 @@ These are just general guidelines. Moderators are allowed to kick and ban people
 	
 4 . **Member impersonation**: <br/>
 	Anyone to state that they are a member without:
-- Having the `@Member` role<br/>
+- Having the `@Member` role
+
 	will be banned for 5 years.
 	
 5 . **Illegal activity is a permanent ban** <br/>
