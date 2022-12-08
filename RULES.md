@@ -43,7 +43,7 @@ will be banned for 5 years.
 	Anyone with a profile picture of Marie from Splatoon will be banned without warning.
 
 16 . **Callie posts**: <br/>
-	People who send messages portraying Callie in a positive light will get the chance to make a custom emoji.
+	People who send messages portraying Callie in a positive light will get a role titled `Callie fan`.
 
 Do not try to find holes that "allow" you to do things that you obviously sholdn't. Using such a hole will result in you getting banned and me fixing it.<br/>
 If you *do* find a hole, let me know.
